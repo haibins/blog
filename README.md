@@ -11,8 +11,8 @@
 
  
 ## JavaScript 基础
-[对象的遍历](https://github.com/haibins/blog/issues/3)<sub>2023</sub>  
-[对象的key是否存在](https://github.com/haibins/blog/issues/2)<sub>2023</sub>
+- [对象的遍历](https://github.com/haibins/blog/issues/3)<sub>`2023`</sub>  
+- [对象的key是否存在](https://github.com/haibins/blog/issues/2)<sub>`2023`</sub>
 
 
 ## JavaScript 进阶
